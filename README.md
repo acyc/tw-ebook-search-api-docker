@@ -2,6 +2,8 @@
 
 Docker deployment for https://github.com/Taiwan-Ebook-Lover/TaiwanEbookSearch-API
 
+Currently using version 0.1.5
+
 ---
 - Externalised `.env` file
 
